@@ -1,0 +1,21 @@
+{
+  "name": "poseidon/poseidon-module-cron-template",
+  "description": "Only for testing and understanding for the module installer",
+  "minimum-stability": "stable",
+  "version": "0.0.1",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "frank",
+      "email": "frank.markwort@gmail.com"
+    }
+  ],
+  "autoload": {
+        "psr-4": {
+            "poseidon\\Template\\Cron\\": "src/"
+        }
+    },
+  "require": {
+      "php" : "^8.3"
+  }
+}
