@@ -2,8 +2,8 @@
   "name": "poseidon2/poseidon-module-cron-template",
   "description": "Only for testing and understanding for the module installer",
   "minimum-stability": "stable",
-  "type": "poseidon2-module",
-  "version": "0.0.3",
+  "type": "poseidon-module",
+  "version": "0.0.4",
   "license": "MIT",
   "authors": [
     {
