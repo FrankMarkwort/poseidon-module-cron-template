@@ -13,7 +13,7 @@
   ],
   "autoload": {
         "psr-4": {
-            "poseidon\\Template\\Cron\\": "src/"
+            "Modules\\Module\\Cron\\Template": "src/"
         }
     },
   "require": {
